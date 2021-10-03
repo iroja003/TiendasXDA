@@ -157,7 +157,7 @@
   height: 370px;
   box-sizing: border-box;
   float: left;
-  background-color: aqua;
+  background-color: #FFFFFF;
   text-align: left;
 }
 .box__texto--h1 {
@@ -181,6 +181,9 @@
 .pie {
   width: 50%;
   background-color: #0C0910;
+  float: left;
+  padding-top: 19px;
+  padding-bottom: 19px;
 }
 .pie__newsletter--h2 {
   font-family: "Raleway", sans-serif;
@@ -206,9 +209,8 @@
   font-weight: 14px;
   color: #FFFFFF;
   margin-left: 20px;
-}
-.pie__newsletter--vertical__newsletter--h5 {
   writing-mode: vertical-lr;
+  padding-left: 139px;
 }
 
 /*# sourceMappingURL=style.css.map */
