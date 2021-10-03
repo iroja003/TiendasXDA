@@ -1,3 +1,3 @@
 # TiendasXDA
-# NOTA : TRABAJO NO LO TERMINE PORQUE NO TENGO CLAO LOS 
-# CONCEPTOS DE BLOQUES Y POSITION.
+# NOTA : Este trabajo no lo termine completo.
+# no tengo claro algunos conceptos de sass, bloque y position.
