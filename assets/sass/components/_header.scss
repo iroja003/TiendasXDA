@@ -1,0 +1,68 @@
+.main{
+    margin-top: 0px;
+}
+
+.box{
+    width: 50%;
+    height: 370px;
+    box-sizing: border-box;
+    float: left;
+    background-color: aqua;
+    text-align: left;
+    
+    &__texto--h1{
+        font-family: $familia_raleway;
+        font-size: $bold;
+        font-weight: $xxx-large;
+    }
+
+    &__texto--p{
+        font-family: $familia_raleway;
+        font-size: $regular;
+        font-weight:$medium;      
+    }
+    &__img{
+        width: 100%;
+    }
+}
+.box__texto{
+    margin-left: 40px;
+}
+
+.pie{
+    width: 50%;
+    background-color: $SmokyBlack;
+
+    &__newsletter--h2{
+        font-family: $familia_raleway;
+        font-size: $x-large;
+        font-weight: $regular;
+        color: $White;
+        margin-left: 20px;
+        padding: 5px;
+    }
+
+    &__newsletter--h5{
+        font-family: $familia_raleway;
+        font-size: $small;
+        font-weight: $regular;
+        color: $White;
+        margin-left: 20px;
+    }
+
+    &__newsletter--for{
+        margin-left: 20px;
+    }
+    &__newsletter--vertical{
+        font-family: $familia_raleway;
+        font-size: $medium;
+        font-weight: $small;
+        color: $White;
+        margin-left: 20px;
+    &__newsletter--h5{
+            writing-mode: vertical-lr;
+    }
+      //  writing-mode: vertical-lr;
+      //   float: right;
+    }
+}
